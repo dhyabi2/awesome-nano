@@ -115,3 +115,4 @@
 <a name="Privacy"></a>
 ### Privacy & Anonimity 
 * [Raimixer](https://github.com/juanjux/raimixer/) - A GUI/commandline local transaction scrambler.
+* [SailNet](https://github.com/dhyabi2/sailnet) - A privacy network paid in XNO: run a relay and earn XNO per megabyte, or route traffic over onion circuits. Android/desktop, Docker, Chrome and Firefox.
